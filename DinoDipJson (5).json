@@ -320,6 +320,10 @@
 						"chancetodrop": 0.5
 					},
 					{
+						"dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
 						"chancetodrop": 0.6
 					},
@@ -428,6 +432,18 @@
 					{
 						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "//Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP",
+						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 6
@@ -435,5 +451,6 @@
 		]
 	}
 }
+
 
 
