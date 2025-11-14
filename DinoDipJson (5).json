@@ -305,6 +305,10 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant_C",
 						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+						"chancetodrop": 0.4
 					}
 				],
 				"dipstogive": 6
@@ -451,6 +455,7 @@
 		]
 	}
 }
+
 
 
 
