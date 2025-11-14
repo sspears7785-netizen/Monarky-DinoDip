@@ -307,6 +307,10 @@
 						"chancetodrop": 0.4
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
+						"chancetodrop": 0.4
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
 						"chancetodrop": 0.4
 					}
@@ -455,6 +459,7 @@
 		]
 	}
 }
+
 
 
 
