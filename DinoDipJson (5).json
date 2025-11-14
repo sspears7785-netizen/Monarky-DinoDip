@@ -381,7 +381,7 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
 						"chancetodrop": 0.3
 					},
 					{
@@ -436,7 +436,6 @@
 						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
 						"chancetodrop": 0.3
 					},
-					
 					{
 						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 						"chancetodrop": 0.3
@@ -459,6 +458,7 @@
 		]
 	}
 }
+
 
 
 
