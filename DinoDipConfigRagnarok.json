@@ -139,10 +139,6 @@
             "chancetodrop": 1.0
           },
           {
-            "dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
             "dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
             "chancetodrop": 1.0
           },
@@ -455,10 +451,6 @@
           },
           {
             "dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
-            "dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
             "chancetodrop": 1.0
           },
           {
