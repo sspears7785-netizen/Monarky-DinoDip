@@ -5,7 +5,9 @@
       "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
       "/Game/Mods/KAB/Boats/Catamaran/PrimalItemCat.PrimalItemCat",
       "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-      "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C"
+      "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Doed/Doed_Character_BP.Doed_Character_BP_C"
     ],
     "weeksarrays": [
       {
@@ -202,10 +204,6 @@
             "chancetodrop": 1.0
           },
           {
-            "dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
             "dino": "/Game/PrimalEarth/Dinos/SpiderS/SpiderS_Character_BP.SpiderS_Character_BP_C",
             "chancetodrop": 1.0
           },
@@ -242,15 +240,7 @@
             "chancetodrop": 1.0
           },
           {
-            "dino": "/Game/PrimalEarth/Dinos/Doed/Doed_Character_BP.Doed_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
             "dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
-            "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
             "chancetodrop": 1.0
           },
           {
