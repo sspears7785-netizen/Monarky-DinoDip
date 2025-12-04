@@ -457,10 +457,6 @@
             "chancetodrop": 1.0
           },
           {
-            "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
             "dino": "/Game/PrimalEarth/Dinos/Archa/Archa_Character_BP.Archa_Character_BP_C",
             "chancetodrop": 1.0
           },
@@ -526,10 +522,6 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
-            "dino": "/Game/PrimalEarth/Dinos/Doed/Doed_Character_BP.Doed_Character_BP_C",
             "chancetodrop": 1.0
           },
           {
@@ -757,7 +749,7 @@
             "chancetodrop": 1.0
           }
         ],
-        "dipstogive": 5
+        "dipstogive": 10
       }
     ]
   }
