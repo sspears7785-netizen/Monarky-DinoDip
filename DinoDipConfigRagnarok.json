@@ -236,10 +236,6 @@
             "chancetodrop": 1.0
           },
           {
-            "dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
-            "chancetodrop": 1.0
-          },
-          {
             "dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
             "chancetodrop": 1.0
           },
